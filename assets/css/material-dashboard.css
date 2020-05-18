@@ -15366,7 +15366,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   content: "";
   display: block;
   background: #FFFFFF;
-  opacity: .93;
+  opacity: .77; /*changed by me, the value used to be .93*/
 }
 
 .sidebar .logo {
