@@ -1,6 +1,7 @@
 .carton {
     margin: 0 24px;
     padding: 15px;
-    border: 1px solid black;
-
+    background-color: #fff;
+    box-shadow: 10px 10px 10px;
+    border-radius: 5px;
 }
